@@ -2,7 +2,7 @@
 An artistic VR experience that takes one inside of a point cloud with dynamic hue. 
 <img src="pointcloud.PNG"></img>
 ### Requirements
-WebVR compatable web browser (e.g., Mozilla Nightly)<br>
+WebVR compatable web browser (e.g., Mozilla Firefox Nightly)<br>
 Stats.js<br>
 Detector.js<br>
 VRController.js<br>
